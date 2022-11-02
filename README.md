@@ -4,10 +4,11 @@
 # BMI Calculator 💪
 
 
-## In this app
-
-We’re going to make a Body Mass Index Calculator inspired by the beautiful designs(https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+![image](https://user-images.githubusercontent.com/55844514/199513042-c41b5419-8fe8-472b-8126-29dadcf56f02.png)
 
 
+
+Used TOOL: Flutter
+Features:
+1.This app is can calculate bmi
+2.Amazing UI
